@@ -1,3 +1,9 @@
+# GROUP 1
+- RACHEL JOY P. PACOT
+- ANJUVH BALDWIN J. YGUINTO
+- LLOYD RAINIER P. VITUDIO
+
+
 # KNN from Scratch: Diabetes & Pickleball 🏓
 
 This is the repository for our Group 1 K-Nearest Neighbors (KNN) machine learning project. We built the entire KNN algorithm from scratch using just Python, Pandas, and NumPy. No `scikit-learn` shortcuts here!
